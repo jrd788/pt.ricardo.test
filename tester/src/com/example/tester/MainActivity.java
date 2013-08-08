@@ -11,6 +11,8 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Log.i("TAGG"," MODIFYING MOAR CODE");
+        Log.i("TAG"," MOAR CODE AFTER THE NEW CHECKOUT YEAHH!!!!");
     }
 
     @Override
